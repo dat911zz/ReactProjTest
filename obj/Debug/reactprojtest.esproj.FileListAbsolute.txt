@@ -1,0 +1,2 @@
+C:\Users\datcy\source\repos\ReactProjTest\ReactProjTest\obj\Debug\reactprojtest.esproj.SuggestedBindingRedirects.cache
+C:\Users\datcy\source\repos\ReactProjTest\ReactProjTest\obj\Debug\reactprojtest.esproj.CoreCompileInputs.cache
